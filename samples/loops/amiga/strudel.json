@@ -1,4 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/reno/samples/main/loops/amiga/",
+  "_base": "https://raw.githubusercontent.com/reno/strudel/refs/heads/main/samples/loops/amiga/",
   "amiga": ["1.wav","2.wav","3.wav"]
   }
