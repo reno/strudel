@@ -1,0 +1,22 @@
+{
+  "_base": "https://raw.githubusercontent.com/reno/samples/main/drums/reamped/",
+
+  "reamped": { 
+    "bd": "Kick_CR22_T2_SB_D1.wav",
+    "cb": "Cymb5_D1.wav",
+    "hh": "HH3_B2_D1.wav", 
+    "perc": [
+      "Perc1_B2_D2.wav",
+      "Perc2_B1_D2.wav",
+      "Perc3_B3_D1.wav"
+    ],
+    "sd": [
+      "Snr_Ludw1455_T1_HB_D1.wav",
+      "Snr_PRL13_T1_SB_D1.wav"
+    ],
+    "tom": [
+      "Tom1_D1.wav",
+      "Tom3_D1.wav"
+    ]
+  } 
+}
