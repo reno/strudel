@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/reno/samples/main/drums/reamped/",
+  "_base": "https://raw.githubusercontent.com/reno/strudel/refs/heads/main/samples/drums/reamped/",
 
   "reamped": { 
     "bd": "Kick_CR22_T2_SB_D1.wav",
